@@ -1,0 +1,751 @@
+symbol,name2,sector
+ry,royal bank of canada,finance
+td,toronto-dominion bank,finance
+enb,enbridge inc,industrial services
+cnr,canadian national railways co,transportation
+cp,canadian pacific railway ltd,transportation
+cnq,canadian natural resources ltd,energy minerals
+bmo,bank of montreal,finance
+bns,bank of nova scotia,finance
+tri,thomson-reuters corp,technology services
+atd,alimentation couche-tard,retail trade
+su,suncor energy inc,energy minerals
+trp,tc energy corporation,industrial services
+bce,bce inc,communications
+ntr,nutrien ltd,process industries
+cm,canadian imperial bank of commerce,finance
+cve,cenovus energy inc,energy minerals
+csu,constellation software inc,technology services
+mfc,manulife financial corp,finance
+wcn,waste connections inc (ca),transportation
+t,telus corp,communications
+imo,imperial oil,energy minerals
+qsp.un,restaurant brands intl ltd ptnrshp,consumer services
+l,loblaws companies limited,retail trade
+slf,sun life financial inc,finance
+fnv,franco nevada corp,non-energy minerals
+ifc,intact financial corporation,finance
+aem,agnico eagle mines ltd,non-energy minerals
+na,national bank of ca,finance
+rci.a,rogers communications inc,communications
+gwo,great west lifeco inc,finance
+gib.a,cgi inc,commercial services
+wpm,wheaton precious metals corp,non-energy minerals
+fts,fortis inc,utilities
+ppl,pembina pipeline corporation,industrial services
+mg,magna international inc,producer manufacturing
+wn,george weston ltd,retail trade
+dol,dollarama inc,retail trade
+pow,power corp of canada,finance
+tou,tourmaline oil corp,energy minerals
+h,hydro one ltd,utilities
+wsp,wsp global inc,industrial services
+ffh,fairfax financial hldgs ltd,finance
+fm,first quantum minerals,non-energy minerals
+sjr.b,shaw communications inc,communications
+mru,metro inc,retail trade
+gfl,gfl environmental inc.,industrial services
+sap,saputo group inc,consumer non-durables
+cco,cameco corp,non-energy minerals
+ivn,ivanhoe mines ltd,non-energy minerals
+ema,emera inc,utilities
+tpx.a,molson coors canada inc,consumer non-durables
+tfii,tfi international inc,transportation
+otex,open text co,technology services
+ccl.a,ccl industries inc,commercial services
+bep.un,brookfield renewable partners l p,utilities
+arx,arc resources ltd,energy minerals
+cu,canadian utilities,utilities
+igm,igm financial inc,finance
+emp.a,empire co,retail trade
+ctc,canadian tire ltd,retail trade
+npi,northland power inc,utilities
+cae,cae inc,commercial services
+rba,ritchie bros auctioneers,distribution services
+iag,ia financial corporation,finance
+tih,toromont industries ltd,distribution services
+doo,brp inc,producer manufacturing
+wfg,west fraser timber co,non-energy minerals
+edv,endeavour mining plc,non-energy minerals
+fsv,firstservice corp,finance
+dsg,descartes systems group inc,technology services
+tixt,telus international (cda) inc,technology services
+k,kinross gold corp,non-energy minerals
+yri,yamana gold inc,non-energy minerals
+ac,air canada,transportation
+stn,stantec inc,industrial services
+x,tmx group limited,finance
+efn,element fleet management corp,finance
+gil,,consumer non-durables
+lun,,non-energy minerals
+qbr.a,quebecor inc,communications
+key,keyera corporation,industrial services
+ala,altagas ltd,utilities
+wcp,whitecap resources inc,energy minerals
+aqn,algonquin power & utilities corp,utilities
+meg,meg energy corp,energy minerals
+toi,topicus com inc,technology services
+nvei,nuvei corporation,technology services
+bto,b2gold corp,non-energy minerals
+agi,alamos gold inc,non-energy minerals
+bbd.a,bombardier inc,electronic technology
+cigi,colliers intl group inc,finance
+ftt,finning international inc,distribution services
+psk,prairiesky royalty ltd,miscellaneous
+onex,onex corp,finance
+pki,parkland corporation,distribution services
+cpg,crescent point energy corp,energy minerals
+erf,enerplus corporation,energy minerals
+cpx,capital power corporation,utilities
+paas,pan american silver corp,non-energy minerals
+atz,aritzia inc,retail trade
+aco.x,atco ltd,utilities
+snc,snc-lavalin group inc,industrial services
+pvf.un,partners value invts lp,finance
+ats,ats corporation,producer manufacturing
+byd,boyd group services inc,consumer services
+dfy,definity finl corp,finance
+cs,capstone copper corp,non-energy minerals
+pou,paramount resources limited,energy minerals
+mx,methanex corp,process industries
+blx,boralex inc,utilities
+sgml,sigma lithium corp,non-energy minerals
+kxs,kinaxis inc,technology services
+pbh,premium brands hldgs corp,distribution services
+lnr,linamar corp,producer manufacturing
+cura,"curaleaf holdings, inc.",process industries
+bhc,bausch health companies inc,health technology
+lug,lundin gold inc,non-energy minerals
+gei,gibson energy inc,distribution services
+toy,spin master corp,consumer durables
+vet,vermilion energy inc,energy minerals
+ta,transalta corp,utilities
+or,osisko gold royalties ltd,non-energy minerals
+ine,innergex renewable energy inc,utilities
+bte,baytex energy corp,energy minerals
+lspd,lightspeed commerce inc,finance
+bb,blackberry ltd,technology services
+rnw,transalta renewables inc,utilities
+elf,e l financial corp ltd,finance
+prmw,primo water corporation canada,consumer non-durables
+tpz,topaz energy corp,energy minerals
+mfi,maple leaf foods,distribution services
+fil,filo mining corp,non-energy minerals
+tcn,tricon residential inc,finance
+cca,cogeco communications inc,consumer services
+fr,first majestic silver corp,non-energy minerals
+goos,canada goose holdings inc,consumer non-durables
+tfpm,triple flag precious metals corp,non-energy minerals
+nxe,nexgen energy ltd,non-energy minerals
+cix,ci financial corp,finance
+sj,stella jones inc,non-energy minerals
+stlc,stelco holdings inc,non-energy minerals
+pet,pet valu holdings ltd,retail trade
+wpk,winpak ltd,process industries
+bbuc,brookfield business corporation,finance
+nva,nuvista energy ltd,energy minerals
+sde,spartan delta corp,energy minerals
+tve,tamarack valley energy ltd,energy minerals
+cfp,canfor corp new,non-energy minerals
+gtii,green thumb industries inc.,process industries
+cwb,canadian western bank,finance
+ses,secure energy services inc,industrial services
+pxt,parex resources inc,energy minerals
+aif,altus group ltd,finance
+lif,labrador iron ore rty corporation,non-energy minerals
+svi,storagevault canada inc,transportation
+bir,birchcliff energy,energy minerals
+ssl,sandstorm gold limited,non-energy minerals
+fru,freehold royalties ltd,miscellaneous
+pey,peyto exploration & develop corp,energy minerals
+fn,first national financial corp,finance
+csh.un,chartwell retirement residences,finance
+spb,superior plus corp,distribution services
+eif,exchange income corporation,transportation
+eld,eldorado gold corp,non-energy minerals
+eqb,eqb inc,finance
+bldp,ballard power systems inc,producer manufacturing
+engh,enghouse systems,technology services
+bnre,brookfield reinsurance ltd,finance
+hbm,hudbay minerals inc,non-energy minerals
+cls,celestica inc,electronic technology
+rch,richelieu hardware,producer manufacturing
+mag,mag silver corp,non-energy minerals
+tsu,trisura group ltd,finance
+and,andlauer healthcare group inc,transportation
+cgg,china gold international resourc cp,non-energy minerals
+ero,ero copper corp,non-energy minerals
+ogc,oceanagold corporation,non-energy minerals
+fih.u,fairfax india holdings corporation,finance
+cjt,cargojet inc,transportation
+knt,k92 mng inc,non-energy minerals
+bbu.un,brookfield business partners l p,commercial services
+rus,russel metals inc,distribution services
+cg,centerra gold inc,non-energy minerals
+gsy,goeasy ltd,finance
+nwc,north west company inc,retail trade
+img,iamgold corp,non-energy minerals
+trul,trulieve cannabis corp.,process industries
+weed,canopy growth corporation,process industries
+glxy,galaxy digital hldgs ltd,commercial services
+dpm,dundee precious metals inc,non-energy minerals
+ola,orla mining ltd new,non-energy minerals
+dntl,dentalcorp hldgs ltd,health services
+uns,uni-select inc,distribution services
+hcg,home capital group inc,finance
+aav,advantage energy ltd,energy minerals
+magt,magnet forensics inc,technology services
+pd,precision drilling corporation,industrial services
+mty,mty food group inc,consumer services
+txg,torex gold resources inc,non-energy minerals
+wte,westshore terminals investment corp,transportation
+dcbo,docebo inc,technology services
+lb,laurentian bank of canada,finance
+sea,seabridge gold inc,non-energy minerals
+jwel,jamieson wellness inc,health technology
+fvi,fortuna silver mines inc,non-energy minerals
+ath,athabasca oil corp,energy minerals
+hwx,headwater exploration inc,energy minerals
+dml,denison mines corporation,non-energy minerals
+sii,sprott inc,finance
+dnd,dye & durham ltd,technology services
+tcl.a,transcontinental inc,consumer services
+vrno,verano holdings corp.,process industries
+sil,silvercrest metals inc,non-energy minerals
+psi,pason system incor,technology services
+blu,bellus health inc,health technology
+mtl,mullen group ltd,transportation
+afm,alphamin res corp,non-energy minerals
+mrc,morguard corporation,finance
+cron,cronos group inc,process industries
+efx,enerflex ltd,producer manufacturing
+aoi,africa oil corp,energy minerals
+cj,cardinal energy group(canada),energy minerals
+iwin,irwin naturals inc,health technology
+soy,sunopta inc,consumer non-durables
+osk,osisko mining inc,non-energy minerals
+lnf,leon's furniture,retail trade
+fec,frontera energy corporation,energy minerals
+cts,converge technology solutions corp,technology services
+meq,mainstreet equity corp,finance
+cf,canaccord genuity group inc,finance
+drm,dream unlimited corp,finance
+cvg,clairvest group,finance
+als,altius minerals corp,non-energy minerals
+che.un,chemtrade logistics income fund,miscellaneous
+bdgi,badger infrastructure solutions ltd,industrial services
+sftc,softchoice corporation,technology services
+nbly,neighbourly pharmacy inc,retail trade
+gdi,gdi integrated fac svcs inc,commercial services
+ifp,interfor corp,non-energy minerals
+cl,cresco labs inc.,process industries
+gcg,guardian capital group,finance
+ngd,new gold inc,non-energy minerals
+sis,savaria corp,consumer durables
+rup,rupert resources,non-energy minerals
+mre,martinrea international inc,producer manufacturing
+scl,shawcor ltd new,process industries
+kel,kelt exploration ltd,energy minerals
+fsz,fiera capital corp,finance
+et,evertz technologies ltd,electronic technology
+mdi,major drilling group intl inc,industrial services
+krr,karora resources inc,non-energy minerals
+wdo,wesdome gold mines ltd,non-energy minerals
+sls,solaris resources inc,non-energy minerals
+iau,i 80 gold corp,non-energy minerals
+edr,endeavour silver corp,non-energy minerals
+tcw,trican well service,producer manufacturing
+pmet,patriot battery metals inc,non-energy minerals
+cvo,coveo solutions inc,technology services
+aya,aya gold & silver inc,non-energy minerals
+cgo,cogeco inc,consumer services
+plc,park lawn corp,finance
+afn,ag growth international inc,producer manufacturing
+zzz,sleep country canada holdings inc,retail trade
+cas,cascades inc,process industries
+pipe,pipestone energy corp,energy minerals
+artg,artemis gold inc,non-energy minerals
+sia,sienna senior living inc,health services
+nfg,new found gold corp,non-energy minerals
+nfi,nfi group inc,producer manufacturing
+sgy,surge energy inc,energy minerals
+li,american lithium corp,process industries
+sec,senvest capital inc,finance
+fom,foran mining corp,non-energy minerals
+ora,aura minerals inc (vg),non-energy minerals
+cr,crew energy inc,energy minerals
+sli,standard lithium ltd,process industries
+las.a,lassonde industries inc,consumer non-durables
+svm,silvercorp metals inc,non-energy minerals
+abst,absolute software corp,technology services
+ad.un,alaris equity partners income trust,finance
+mda,mda ltd,electronic technology
+chr,chorus aviation inc,transportation
+well,well health technologies corp,health services
+obe,obsidian energy ltd,energy minerals
+sbb,sabina gold & silver corporation,non-energy minerals
+esi,ensign energy services inc,industrial services
+cgy,calian group ltd,commercial services
+abct,abc technologies hldgs inc,producer manufacturing
+ceu,ces energy solutions corp,process industries
+ggd,gogold resources inc,non-energy minerals
+sfc,sagicor finl co ltd,finance
+ecn,ecn capital corp,finance
+glo,global atomic corporation,non-energy minerals
+tko,taseko mines,non-energy minerals
+nxr.un,nexus indl real estate invt tr,finance
+cup.u,caribbean utilities co,utilities
+ase,asante gold corporation,non-energy minerals
+aden,adentra inc,distribution services
+tf,timbercreek finl corp,finance
+are,aecon group inc,industrial services
+ske,skeena resources limited,non-energy minerals
+kec,kiwetinohk energy corp,utilities
+acq,autocanada inc,retail trade
+alc,algoma central corp,transportation
+vgcx,victoria gold corp,non-energy minerals
+dbm,doman building materials group ltd,retail trade
+tal,petrotal corp,energy minerals
+fcu,fission uranium co,non-energy minerals
+rsi,rogers sugar inc,process industries
+aris,aris mining corporation,non-energy minerals
+oyl,cgx energy inc,energy minerals
+gud,knight therapeutics inc,health technology
+ar,argonaut gold inc,non-energy minerals
+ngex,ngex minerals ltd,non-energy minerals
+cfw,calfrac well services ltd,industrial services
+aw.un,a&w revenue royalties income fd,miscellaneous
+ter,,process industries
+pnc.a,postmedia network canada corp,consumer services
+exe,extendicare inc cda,health services
+lgo,largo inc,non-energy minerals
+noa,north american construction grp ltd,non-energy minerals
+lgt.a,logistec corp,transportation
+nuag,new pacific metals corp,non-energy minerals
+mkp,mcan mortgage corporation,finance
+agf.b,agf management ltd,finance
+pne,pine cliff energy ltd,energy minerals
+fl,frontier lithium inc,non-energy minerals
+mal,magellan aerospace,electronic technology
+cgx,cineplex inc,consumer services
+hrx,heroux-devtek inc,electronic technology
+cmmc,copper mountain mining corporation,non-energy minerals
+pbl,pollard banknote limited,consumer services
+dsv,discovery silver corp,non-energy minerals
+gbt,bmtc group inc,retail trade
+amc,arizona metals cor,non-energy minerals
+cxb,calibre mining corporation,non-energy minerals
+tvk,terravest industries inc,producer manufacturing
+cmg,computer modelling group ltd,technology services
+ai,atrium mortgage investment corp,finance
+odv,osisko development corp,non-energy minerals
+cre,critical elements lithium corporati,process industries
+vcm,vecima networks inc,consumer durables
+csw.a,corby spirit & wine ltd,consumer non-durables
+neo,neo performance materials inc,producer manufacturing
+hlf,high liner foods inc,consumer non-durables
+gato,gatos silver inc,non-energy minerals
+rgd,reunion gold corp,non-energy minerals
+wfc,wall financial corp,finance
+wjx,wajax corp,distribution services
+ore,orezone gold corp,non-energy minerals
+bdt,bird construction inc,industrial services
+rpi.un,richards packaging income fund,miscellaneous
+div,diversified rty corp,commercial services
+gra,nanoxplore inc,producer manufacturing
+twm,tidewater midstream & infrastr ltd,distribution services
+hut,hut 8 mining corp,technology services
+moz,marathon gold corporation,non-energy minerals
+twc,twc enterprises ltd,consumer services
+step,step energy services ltd,energy minerals
+phx,phx energy svcs co,industrial services
+isv,information services corp,commercial services
+cplf,copperleaf technologies inc,technology services
+fc,firm capital mortgage inv corp,finance
+vmd,viemed healthcare inc,health services
+wed,westaim corp,finance
+mpc,madison pacific properties inc,finance
+wild,wildbrain ltd,consumer services
+cjr.b,corus entertainment inc,consumer services
+tot,total energy services inc,industrial services
+lcfs,tidewater renewables ltd,process industries
+wef,western forest products inc,non-energy minerals
+gmin,g mining ventures corp,non-energy minerals
+ogi,organigram holdings inc,process industries
+cchw,columbia care inc.,health technology
+tlo,talon metals corporation,non-energy minerals
+cne,canacol energy ltd,energy minerals
+eu,encore energy corp,non-energy minerals
+tcs,tecsys inc,commercial services
+wrn,western copper & gold corp,non-energy minerals
+ray.a,stingray group inc,consumer services
+la,los andes copper limited,non-energy minerals
+dxt,dexterra group inc,consumer durables
+pom,polymet mining cp,non-energy minerals
+mrd,melcor developments,finance
+nou,nouveau monde graphite inc,non-energy minerals
+dtol,d2l inc,technology services
+lou,lucero energy corp,energy minerals
+ure,ur energy inc,non-energy minerals
+bpf.un,boston pizza royalties income fund,miscellaneous
+aim,aimia inc,finance
+aawh.u,"ascend wellness holdings, inc.",process industries
+pza,pizza pizza royalty corp,consumer services
+ibat,international battery metals ltd.,process industries
+sva,sernova corporation,health technology
+aot,ascot resources,non-energy minerals
+npk,verde agritech ltd,process industries
+acb,aurora cannabis inc,process industries
+hfpc.u,helios fairfax partners corp,finance
+tbl,taiga building products inc,distribution services
+prn,profound med corp,health technology
+qrc,queen's road capital investment,miscellaneous
+hive,hive blockchain technologies ltd,technology services
+gogr,osisko green acquisition ltd,finance
+emx,emx royalty corporation,non-energy minerals
+mta,metalla royalty & streaming ltd,commercial services
+iii,imperial metals corporation,non-energy minerals
+bitf,bitfarms ltd,technology services
+hls,hls therapeutics inc,health technology
+luc,lucara diamond corp,non-energy minerals
+sgd,snowline gold corp.,technology services
+real,real matters inc,finance
+kbl,k bro linen inc,commercial services
+iso,isoenergy ltd,non-energy minerals
+reax,the real brokerage inc,technology services
+urc,uranium royalty corp,non-energy minerals
+txp,touchstone exploration inc,energy minerals
+vzla,vizsla silver corp,non-energy minerals
+xtc,exco technologies ltd,producer manufacturing
+ppta,perpetua res corp,non-energy minerals
+cet,cathedral energy services ltd,industrial services
+pif,polaris renewable energy inc,utilities
+reco,reconnaissance energy africa ltd,energy minerals
+bdi,black diamond group limited,consumer durables
+prq,petrus resources limited,energy minerals
+anrg,anaergia inc,industrial services
+etg,entree resources ltd,non-energy minerals
+dht.u,dri healthcare trust,miscellaneous
+mari,marimaca copper corp,non-energy minerals
+joy,journey energy inc,energy minerals
+exro,exro technologies inc,producer manufacturing
+next,nextsource materials inc (ca),non-energy minerals
+gold,goldmining inc,non-energy minerals
+plth,planet 13 holdings inc.,process industries
+adn,acadian timber corp,non-energy minerals
+mpct.un,dream impact tr,miscellaneous
+gxe,gear energy ltd,energy minerals
+vbnk,versabank new,finance
+hps.a,hammond power solutions inc,producer manufacturing
+qipt,quipt home medical corp,health services
+nb,niocorp developments ltd,non-energy minerals
+y,yellow pages limited,technology services
+ifos,itafos inc,process industries
+gfp,greenfirst forest products inc,non-energy minerals
+ipo,inplay oil corp,energy minerals
+quis,quisitive technology solutions inc,technology services
+rbx,robex resources inc,non-energy minerals
+arg,amerigo resources corp,non-energy minerals
+ncu,nevada copper corp,non-energy minerals
+cfx,canfor pulp products inc,process industries
+vnp,5n plus inc,non-energy minerals
+prb,probe gold inc,non-energy minerals
+mxg,maxim power corporation,utilities
+bne,bonterra energy corp,energy minerals
+fhyd,first hydrogen corp,distribution services
+s,sherritt intl corp,non-energy minerals
+prym,prime mining corp,non-energy minerals
+prl,propel holdings inc,technology services
+pay,payfare inc,commercial services
+vle,valeura energy inc,energy minerals
+nano,nano one matls corp,producer manufacturing
+mnd,mandalay resources corp,non-energy minerals
+afe,africa energy corp,energy minerals
+alv,alvopetro energy ltd,energy minerals
+elo,eloro resources ltd,non-energy minerals
+snm,shamaran petroleum corp,energy minerals
+arr,altius renewable royalties corp,utilities
+gbu,gabriel resources,non-energy minerals
+ygr,yangarra resources ltd,energy minerals
+pkt,parkit enterprise incorporation,consumer services
+an,arena minerals inc,process industries
+brvo,bravo mining corp,non-energy minerals
+ops,opsens inc,health technology
+rck,rock tech lithium inc,process industries
+vxtr,voxtur analytics corp,technology services
+ele,elemental altus royalties corp,non-energy minerals
+eco,ecosynthetix inc,process industries
+htl,hamilton thorne ltd,miscellaneous
+alya,alithya group inc,technology services
+adw.a,andrew peller ltd,consumer non-durables
+jag,jaguar mining inc,non-energy minerals
+kei,kolibri global energy inc,energy minerals
+hot.u,american hotel income pptys reit lp,finance
+wprt,westport fuel systems inc,producer manufacturing
+lgd,liberty gold corp,non-energy minerals
+dme,desert mountain energy corp,energy minerals
+dr,medical facilities corporation,health services
+einc,e automotive inc,technology services
+mai,minera alamos inc,non-energy minerals
+heo,h2o innovation inc,producer manufacturing
+tud,tudor gold corp,non-energy minerals
+ptm,platinum group metals ltd,non-energy minerals
+bos,airboss of america corp,electronic technology
+ffnt,4front ventures corp.,process industries
+dii.a,dorel industries,consumer durables
+ksi,kneat com inc,non-energy minerals
+rcg,rf capital group inc,finance
+thx,thor explorations,non-energy minerals
+care,dialogue health tech inc,technology services
+zen,zentek ltd,non-energy minerals
+abxx,abaxx technologies inc.,non-energy minerals
+amx,amex exploration inc,non-energy minerals
+chw,chesswood group ltd,finance
+dv,dolly varden silver corp,non-energy minerals
+qtrh,quarterhill inc,commercial services
+ascu,arizona sonoran copper co inc,non-energy minerals
+amrq,amaroq minerals ltd,non-energy minerals
+cnc,canada nickel company inc,non-energy minerals
+jush,jushi holdings inc. class b subordinate voting shares,process industries
+salt,atlas salt inc,process industries
+gmg,graphene manufacturing group ltd,producer manufacturing
+aii,almonty industries inc,non-energy minerals
+lift,li-ft power ltd.,non-energy minerals
+ndm,northern dynasty minerals ltd,non-energy minerals
+cad,colonial coal intl corp,energy minerals
+keg.un,the keg royalties income fd,miscellaneous
+ith,international tower hill mines,non-energy minerals
+gh,gamehost inc,consumer services
+abra,abrasilver resource corp,non-energy minerals
+arch,arch biopartners inc,health technology
+fvl,freegold ventures,non-energy minerals
+spkc.u,silver spike iii acquisition corp. class a restricted voting shares,finance
+emo,emerita resources corp,non-energy minerals
+me,moneta gold inc,non-energy minerals
+cki,clarke inc,consumer services
+bynd,bynd cannasoft enterprises inc,process industries
+lum,lumina gold corp,non-energy minerals
+esk,eskay mining corp,non-energy minerals
+ff,first mining gold corp,non-energy minerals
+wm,wallbridge mining co,non-energy minerals
+pyr,pyrogenesis canada inc,industrial services
+mdf,mdf commerce inc,technology services
+sxp,supremex inc,consumer non-durables
+usa,americas gold & silver corporation,non-energy minerals
+fora,verticalscope hldgs inc,technology services
+gau,galiano gold inc,non-energy minerals
+alps.u,alpine summit energy partners inc,energy minerals
+lcx,lycos energy inc,energy minerals
+lio,lion one metals limited,non-energy minerals
+pea,pieridae energy limited,energy minerals
+mmed,mind medicine (mindmed) inc.,health technology
+far,foraco international sa,industrial services
+efl,electrovaya inc,producer manufacturing
+oco,oroco resource corp,non-energy minerals
+grz,gold reserve inc,non-energy minerals
+oly,olympia financial group inc,finance
+urb,urbana corp,finance
+tbrd,thunderbird entertainment group inc,consumer services
+fo,falcon oil & gas,energy minerals
+lme,laurion mineral exploration inc,non-energy minerals
+ian,ianthus capital holdings inc.,process industries
+brmi,boat rocker media inc,consumer services
+apm,andean precious metals corp,finance
+abr,arbor metals corp,non-energy minerals
+epic,1cm inc,commercial services
+cyp,cypress development corp,process industries
+dtc,defence therapeutics inc,health technology
+soil,saturn oil & gas inc,energy minerals
+dlcg,dominion lending centres inc,finance
+cusn,cornish metals inc,non-energy minerals
+thnc,thinkific labs inc,technology services
+tmd,titan medical inc,health technology
+alli,alpha lithium corporation,non-energy minerals
+nicu,magna mining inc,non-energy minerals
+bct,briacell therapeutics corp,health technology
+onc,oncolytics biotech inc,health technology
+ret,reitmans(canada),retail trade
+osi,osino resources corp,non-energy minerals
+tea,tearlach resources,non-energy minerals
+atx,atex resources inc,non-energy minerals
+mfg,mayfair gold corp,non-energy minerals
+geo,,non-energy minerals
+cur,consolidated uranium inc,non-energy minerals
+wbr,waterloo brewing ltd,consumer non-durables
+novr,nova royalty corp,commercial services
+scz,santacruz silver mining ltd,non-energy minerals
+cuu,copper fox metals inc,non-energy minerals
+mgro,mustgrow biologics corp,process industries
+hiti,high tide inc,retail trade
+tcf,trillion energy international inc.,energy minerals
+bln,blackline safety corp,electronic technology
+syz,sylogist ltd,technology services
+tlg,troilus gold corp,non-energy minerals
+crrx,carerx corporation,health services
+tmq,trilogy metals inc new,non-energy minerals
+genm,generation mining limited,non-energy minerals
+srv.un,sir royalty income fund,miscellaneous
+emn,euro manganese inc,non-energy minerals
+gtwo,g2 goldfields inc,non-energy minerals
+bcm,bear creek mining corporation,non-energy minerals
+vox,vox rty corp (ca),non-energy minerals
+hme,hemisphere energy corporation,energy minerals
+lth,lithium ionic corp,non-energy minerals
+sfr,sandfire resources america inc,non-energy minerals
+xau,goldmoney inc,finance
+cxi,currency exchange intl corp,finance
+gsvr,guanajuato silver company ltd,non-energy minerals
+lith,lithium chile inc,non-energy minerals
+gdl,goodfellow inc,distribution services
+gxu,goviex uranium inc,non-energy minerals
+mpvd,mountain province diamonds inc,non-energy minerals
+dc.a,dundee corporation,finance
+at,acuityads hldgs inc,technology services
+asm,avino silver & gold mines,non-energy minerals
+cnl,collective mining ltd,non-energy minerals
+gip,green impact partners inc,technology services
+eog,eco atlantic oil & gas ltd,energy minerals
+fuu,fission 3.0 corp,non-energy minerals
+etl,e3 lithium ltd,process industries
+bhsc,bioharvest sciences inc.,process industries
+png,kraken robotics inc,electronic technology
+eglx,enthusiast gaming holdings inc,technology services
+th,theratechnologies inc,health technology
+stc,sangoma technologies corporation,electronic technology
+trz,transat at inc,consumer services
+byn,banyan gold corp,non-energy minerals
+bre,bridgemarq real estate services inc,miscellaneous
+mene,mene inc,consumer durables
+pbit,posabit systems corporation,technology services
+slvr,silver tiger metals inc,non-energy minerals
+brag,bragg gaming group inc,technology services
+amy,recyclico battery materials inc,non-energy minerals
+cvw,cvw cleantech inc,non-energy minerals
+ckg,chesapeake gold corp,non-energy minerals
+mmax,metamaterial exchangeco inc,electronic technology
+mko,mako mining corp,non-energy minerals
+mau,montage gold corp,non-energy minerals
+fury,fury gold mines ltd,non-energy minerals
+ngen,nervgen pharma corp,health technology
+gph,graphite one inc,non-energy minerals
+g,augusta gold corp,non-energy minerals
+dng,dynacor group inc,non-energy minerals
+cwc,cwc energy services corp,industrial services
+vln,velan inc,producer manufacturing
+root,roots corporation,consumer non-durables
+drr.u,dream residential real est invt tr,finance
+ayr.a,"ayr wellness inc. s.v., rvs, l.v.",health technology
+vhi,vitalhub corp,technology services
+cweb,charlottes web holdings inc,process industries
+gdc,genesis land development corp,consumer durables
+xybn,xybion digital inc,finance
+wrg,western energy services corporation,industrial services
+glas.a.u,glass house brands inc. subordinate voting equity shares,process industries
+rby,rubellite energy inc,energy minerals
+forz,forza petroleum limited,energy minerals
+egt,eguana technologies inc,electronic technology
+ntar,nextech ar solutions corp,technology services
+tao,tag oil ltd,energy minerals
+wml,wealth minerals,non-energy minerals
+sou,southern energy corp,energy minerals
+mjs,majestic gold corp,non-energy minerals
+pnrl,premium nickel resources ltd,non-energy minerals
+opt,optiva inc,technology services
+gpv,greenpower mtr co inc,consumer durables
+rht,reliq health technologies inc,technology services
+drt,dirtt environmental solutions ltd,technology services
+nkg,nevada king gold corp,non-energy minerals
+pink,perimeter medical imaging ai inc,health technology
+brc,blackrock silver corp,non-energy minerals
+kits,kits eye care ltd,retail trade
+cybn,cybin inc.,health technology
+oiii,o3 mining inc,non-energy minerals
+nvcn,neovasc inc,health technology
+edt,spectral medical inc,health technology
+erd,erdene resource development corp,non-energy minerals
+kpt,kp tissue inc,consumer non-durables
+psd,pulse seismic inc,industrial services
+ttnm,titanium transn group inc,transportation
+taig,taiga motors corp,retail trade
+tsl,tree island steel ltd,producer manufacturing
+bnch,benchmark metals inc,non-energy minerals
+rok,rok resources inc,energy minerals
+elbm,electra battery materials corp,non-energy minerals
+gasx,ng energy international corp,energy minerals
+pvt,pivotree inc,technology services
+wrx,western resources corp,non-energy minerals
+ara,aclara resources inc,non-energy minerals
+reg,regulus resources inc new,non-energy minerals
+pgz,pan global resources inc,non-energy minerals
+qfor,q4 inc,technology services
+lam,laramide resources,non-energy minerals
+guru,guru organic energy corp,consumer non-durables
+fsy,forsys metals corporation,non-energy minerals
+qec,questerre energy corp,energy minerals
+ogn,orogen royalties inc,consumer durables
+hai,haivision systems inc,electronic technology
+hpq,hpq silicon inc,non-energy minerals
+flt,drone delivery canada corp,electronic technology
+pmkr,playmaker capital inc,commercial services
+giii,regen iii corp,process industries
+cph,cipher pharmaceuticals inc,health technology
+moly,greenland resources inc.,non-energy minerals
+eprx,eupraxia pharmaceuticals inc,commercial services
+tpl,tethys petroleum limited,energy minerals
+pkk,tenet fintech group inc,technology services
+vers,verses technologies inc. subordinate voting shares,technology services
+rx,biosyent inc,health technology
+fpx,fpx nickel corp,non-energy minerals
+gtms,greenbrook tms inc,health services
+stgo,steppe gold ltd,non-energy minerals
+gmn,gobimin inc,non-energy minerals
+adzn,adventus mining corporation,non-energy minerals
+hexo,hexo corp,process industries
+xtra,xtract one technologies inc,technology services
+nvo,novo resources corp,non-energy minerals
+eq,eq inc,commercial services
+mga,mega uranium ltd,non-energy minerals
+mgg,minaurum gold inc,non-energy minerals
+cfe,cartier silver corporation,non-energy minerals
+nkl,nickel 28 capital corp,non-energy minerals
+bigg,bigg digital assets inc,finance
+ros,roscan gold corporation,non-energy minerals
+love,cannara biotech inc,process industries
+bsr,bluestone resources inc,non-energy minerals
+atl,atlas global brands inc.,process industries
+fwz,fireweed metals corp,non-energy minerals
+dbg,doubleview gold corp,non-energy minerals
+nbva,nubeva technologies ltd,technology services
+dya,dynacert inc,producer manufacturing
+leef,leef brands inc.,process industries
+fish,sailfish royalty corp,non-energy minerals
+jpeg,pioneer media holdings inc.,finance
+tlt,theralase technologies inc,health technology
+we,wecommerce holdings ltd,technology services
+mgm,maple gold mines ltd,non-energy minerals
+usgd,american pacific mining corp.,non-energy minerals
+aps,aptose biosciences inc,health technology
+jev,jericho energy ventures inc,energy minerals
+grn,greenlane renewables inc,industrial services
+mno,meridian mining uk societas,non-energy minerals
+inno,innocan pharma corporation,health technology
+itr,integra resources corp,non-energy minerals
+ifx,imaflex inc,process industries
+rhc,royal helium ltd,process industries
+mogo,mogo inc,finance
+mir,medmira inc,health technology
+az,a2z smart technologies corp,technology services
+hwo,high arctic energy services inc,industrial services
+gcl,colabor group inc,transportation
+au,aurion resources ltd,non-energy minerals
+akt.a,akita drilling ltd,industrial services
+maw,mawson gold limited,non-energy minerals
+eagr,east side games group inc,technology services
+crp,ceres global ag corp,transportation
+torq,torq resources inc,non-energy minerals
+ecm,ecolomondo corporation,industrial services
+azm,azimut exploration inc,non-energy minerals
+numi,numinus wellness inc,health services
+tva.b,tva group inc,consumer services
+agmr,silver mountain resources inc,non-energy minerals
+brw,brunswick exploration inc,non-energy minerals
